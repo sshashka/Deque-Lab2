@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WpXW13ZgxIxZFvOnVWY12usvVIcDxvxyWt7sbyIVB55utiF47u5w7YaAwlUoJ06U6V2tz329/XlG36o3gkI6Aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vitalich\\RiderProjects\\Deque\\Deque.Core\\Deque.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vitalich\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vitalich\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vitalich\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

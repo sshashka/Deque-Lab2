@@ -1,0 +1,12 @@
+C:\Users\Vitalich\RiderProjects\Deque\Deque.Core\bin\Debug\net5.0\Deque.Core.deps.json
+C:\Users\Vitalich\RiderProjects\Deque\Deque.Core\bin\Debug\net5.0\Deque.Core.dll
+C:\Users\Vitalich\RiderProjects\Deque\Deque.Core\bin\Debug\net5.0\ref\Deque.Core.dll
+C:\Users\Vitalich\RiderProjects\Deque\Deque.Core\bin\Debug\net5.0\Deque.Core.pdb
+C:\Users\Vitalich\RiderProjects\Deque\Deque.Core\obj\Debug\net5.0\Deque.Core.csproj.AssemblyReference.cache
+C:\Users\Vitalich\RiderProjects\Deque\Deque.Core\obj\Debug\net5.0\Deque.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalich\RiderProjects\Deque\Deque.Core\obj\Debug\net5.0\Deque.Core.AssemblyInfoInputs.cache
+C:\Users\Vitalich\RiderProjects\Deque\Deque.Core\obj\Debug\net5.0\Deque.Core.AssemblyInfo.cs
+C:\Users\Vitalich\RiderProjects\Deque\Deque.Core\obj\Debug\net5.0\Deque.Core.csproj.CoreCompileInputs.cache
+C:\Users\Vitalich\RiderProjects\Deque\Deque.Core\obj\Debug\net5.0\Deque.Core.dll
+C:\Users\Vitalich\RiderProjects\Deque\Deque.Core\obj\Debug\net5.0\ref\Deque.Core.dll
+C:\Users\Vitalich\RiderProjects\Deque\Deque.Core\obj\Debug\net5.0\Deque.Core.pdb
